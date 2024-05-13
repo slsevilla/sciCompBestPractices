@@ -1,7 +1,4 @@
-# Documentation Update Pull Request Template
-
-## PR Title
-[Provide a title summarising the documentation update, e.g., "Revise README for new feature integration"]
+```Documentation Update Pull Request Template```
 
 ## Type of Change
 - [X] Documentation update (changes to documentation)
@@ -9,13 +6,13 @@
 - [] New feature (non-breaking change which adds functionality)
 
 ## Issues / PR's addressed
-- fixes #12
+```- fixes #12```
 
 ## Description of Changes
-[Detail what documentation has been added, modified, or removed. Explain the rationale behind these changes.]
+```Detail what documentation has been added, modified, or removed. Explain the rationale behind these changes.```
 
 ## Additional Comments
-[Any additional information or context for the documentation changes.]
+```Any additional information or context for the documentation changes.```
 
 ## Checklist
 - [ ] I have added relevant issues / PR's.
