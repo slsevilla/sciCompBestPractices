@@ -1,4 +1,4 @@
-```Documentation Update Pull Request Template```
+# Documentation Update Pull Request Template
 
 ## Type of Change
 - [X] Documentation update (changes to documentation)

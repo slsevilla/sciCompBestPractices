@@ -1,4 +1,5 @@
-```Feature Pull Request Template```
+# Feature Pull Request Template
+
 ## Type of Change
 - [] Documentation update (changes to documentation)
 - [] Bug fix (non-breaking alteration which rectifies an issue)

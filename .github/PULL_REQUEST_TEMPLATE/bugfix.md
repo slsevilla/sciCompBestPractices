@@ -1,4 +1,4 @@
-```Bug Fix Pull Request Template```
+# Bug Fix Pull Request Template
 
 ## Type of Change
 - [] Documentation update (changes to documentation)
