@@ -13,9 +13,6 @@
 ## Testing Conducted
 ```Detail the tests carried out to ensure the feature works as intended and integrates well with the existing system.```
 
-## Additional Remarks
-[Any additional comments or information for the reviewers.]
-
 ## Checklist
 - [ ] I have added relevant issues / PR's.
 - [ ] I have updated any relevant READMEs or other documentation guides.
